@@ -2,11 +2,11 @@
 
 This is a work-in-progress crate for <a href="https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol">LDAP</a> in Rust.
 
-#### Usage
+### Usage
 
 TODO: Add examples.
 
-#### References
+### References
 ##### LDAP
 - LDAP: The Protocol [[RFC4511](https://www.ietf.org/rfc/rfc4511.txt)]
 - LDAP: Directory Information Models [[RFC4512](https://www.ietf.org/rfc/rfc4512.txt)]
@@ -19,7 +19,7 @@ TODO: Add examples.
 - LDAP: Schema for User Applications [[RFC4519](https://www.ietf.org/rfc/rfc4519.txt)]
 
 
-#### License
+### License
 
 Licensed under either of <a href="LICENSE-APACHE">Apache License, Version
 2.0</a> or <a href="LICENSE-MIT">MIT license</a> at your option.
