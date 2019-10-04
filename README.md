@@ -1,4 +1,5 @@
-# LDAP
+# LDAP &emsp; [![Build Status](https://travis-ci.org/blueridanus/ldap.svg?branch=master)](https://travis-ci.org/blueridanus/ldap)
+
 This is a work-in-progress crate for <a href="https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol">LDAP</a> in Rust.
 
 #### Usage
